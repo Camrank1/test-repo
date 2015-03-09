@@ -1,7 +1,4 @@
 # This is a secondary heading
 ## This is a tertiary heading
 
-
-
-# test-repo
-This is a test repo
+This is a test repo for The Data Scientist's Toolbox Week 2
